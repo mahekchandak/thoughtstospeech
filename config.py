@@ -1,0 +1,1 @@
+kumars_path = '/Users/mahekchandak/.cache/kagglehub/datasets/ignazio/kumars-eeg-imagined-speech/versions/2/Imagined_speech_EEG_edf'
