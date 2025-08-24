@@ -138,7 +138,7 @@ if __name__ == '__main__':
 
     out_dir = os.path.join(kumars_path, 'cleaned_fif')
     out_file = os.path.splitext(os.path.basename(first))[0] + '_cleaned.fif'
-    save_fif(cleaned, os.path.join(out_dir, out_file))0
+    save_fif(cleaned, os.path.join(out_dir, out_file))
     print('Saved first cleaned file')
 
     do_batch = False  # Set True to process all silently
@@ -149,4 +149,3 @@ if __name__ == '__main__':
             of = os.path.splitext(os.path.basename(p))[0] + '_cleaned.fif'
             save_fif(c, os.path.join(out_dir, of))
         print('Batch done')
-0

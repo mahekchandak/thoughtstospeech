@@ -1,0 +1,7 @@
+{
+  "fs": 128.0,
+  "n_channels": 14,
+  "n_trials": 2,
+  "trial_length_s": 5.0,
+  "channels_missing": []
+}
